@@ -1,0 +1,25 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+#layout{
+  padding: 100px;
+}
+
+#Links{
+  display: flex;
+  justify-content: center;
+
+}
+#link2{
+  padding: 10px;
+  background-color: red;
+  margin: 50px;
+  color: white;
+}#link1{
+  padding: 10px;
+  background-color: green;
+  margin: 50px;
+  color: white;
+}
